@@ -23,21 +23,21 @@ public class Fart extends JavaPlugin {
         this.config = this.getConfig();
 
         try {
-            saveDefaultConfig(); // Ensure config.yml exists
-            reloadLangConfig();  // Load language files
-            registerCommands();  // Register commands
+            saveDefaultConfig();
+            reloadLangConfig();
+            registerCommands();
             getLogger().info("Fart plugin enabled successfully!");
         } catch (Exception e) {
             getLogger().severe("Failed to enable Fart plugin: " + e.getMessage());
             e.printStackTrace();
-            getServer().getPluginManager().disablePlugin(this); // Disable plugin if initialization fails
+            getServer().getPluginManager().disablePlugin(this); // Safely disable the plugin
         }
 
         // Load language files
         loadLangFile("en");
         loadLangFile("sv");
         loadLangFile("da");
-        loadLangFile("he");
+        loadLangFile("il");
 
         getLogger().info("Fart plugin enabled!");
     }
