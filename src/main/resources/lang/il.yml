@@ -1,0 +1,29 @@
+help:
+  title: "&a🚽 עזרה עבור תוסף Fart:"
+  fart: "&b/fart [שחקן] - תגרום לעצמך (או לשחקן אחר) לתקוע נפיחה!"
+  poop: "&b/poop [שחקן] - תגרום לעצמך (או לשחקן אחר) לעשות קקי!"
+  toilet: "&b/toilet [שחקן] - תשב את עצמך (או את השחקן) על אסלה!"
+  diarrhea: "&b/diarrhea [שחקן] - תגרום לעצמך (או לשחקן) לשלשול!"
+  reload: "&b/fartreload - טען מחדש את הגדרות התוסף וקבצי השפה."
+effect:
+  fart:
+    self: "&a🚽 תקעת נפיחה!"
+    other: "&a🚽 גרמת ל{player} לתקוע נפיחה!"
+    usage: "&c🚽 שימוש: {command} [שחקן]"
+  poop:
+    self: "&a🚽 עשית קקי!"
+    other: "&a🚽 גרמת ל{player} לעשות קקי!"
+    usage: "&c🚽 שימוש: {command} [שחקן]"
+  toilet:
+    self: "&a🚽 אתה עכשיו יושב על אסלה!"
+    other: "&a🚽 שמת את {player} על אסלה!"
+    usage: "&c🚽 שימוש: {command} [שחקן]"
+  diarrhea:
+    self: "&a🚽 יש לך שלשול!"
+    other: "&a🚽 גרמת ל{player} לשלשול!"
+    usage: "&c🚽 שימוש: {command} [שחקן]"
+  onlyPlayer: "&c🚽 רק שחקנים יכולים להשתמש בפקודה הזו!"
+  playerNotFound: "&c🚽 השחקן לא נמצא!"
+reload:
+  success: "&a🚽 ההגדרות וקבצי השפה נטענו מחדש!"
+  permissionDenied: "&c🚽 אין לך הרשאה לטעון מחדש את התוסף!"

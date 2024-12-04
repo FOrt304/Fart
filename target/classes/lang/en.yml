@@ -1,0 +1,29 @@
+help:
+  title: "&a🚽 Fart Plugin Help:"
+  fart: "&b/fart [player] - Makes you (or the target player) fart!"
+  poop: "&b/poop [player] - Makes you (or the target player) poop!"
+  toilet: "&b/toilet [player] - Puts you (or the target player) on a toilet!"
+  diarrhea: "&b/diarrhea [player] - Causes you (or the target player) diarrhea!"
+  reload: "&b/fartreload - Reloads the plugin configuration and language files."
+effect:
+  fart:
+    self: "&a🚽 You farted!"
+    other: "&a🚽 You made {player} fart!"
+    usage: "&c🚽 Usage: {command} [player]"
+  poop:
+    self: "&a🚽 You pooped!"
+    other: "&a🚽 You made {player} poop!"
+    usage: "&c🚽 Usage: {command} [player]"
+  toilet:
+    self: "&a🚽 You are now on a toilet!"
+    other: "&a🚽 You put {player} on a toilet!"
+    usage: "&c🚽 Usage: {command} [player]"
+  diarrhea:
+    self: "&a🚽 You have diarrhea!"
+    other: "&a🚽 You gave {player} diarrhea!"
+    usage: "&c🚽 Usage: {command} [player]"
+  onlyPlayer: "&c🚽 Only players can use this command!"
+  playerNotFound: "&c🚽 Player not found!"
+reload:
+  success: "&a🚽 Plugin configuration and language files reloaded!"
+  permissionDenied: "&c🚽 You don't have permission to reload the plugin!"

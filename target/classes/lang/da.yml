@@ -1,0 +1,29 @@
+help:
+  title: "&a🚽 Hjælp til Fart Plugin:"
+  fart: "&b/fart [spiller] - Få dig selv (eller den valgte spiller) til at prutte!"
+  poop: "&b/poop [spiller] - Få dig selv (eller den valgte spiller) til at skide!"
+  toilet: "&b/toilet [spiller] - Sæt dig selv (eller den valgte spiller) på et toilet!"
+  diarrhea: "&b/diarrhea [spiller] - Giv dig selv (eller den valgte spiller) diarré!"
+  reload: "&b/fartreload - Genindlæs plugin-konfigurationen og sprogfilerne."
+effect:
+  fart:
+    self: "&a🚽 Du pruttede!"
+    other: "&a🚽 Du fik {player} til at prutte!"
+    usage: "&c🚽 Brug: {command} [spiller]"
+  poop:
+    self: "&a🚽 Du sked!"
+    other: "&a🚽 Du fik {player} til at skide!"
+    usage: "&c🚽 Brug: {command} [spiller]"
+  toilet:
+    self: "&a🚽 Du sidder nu på et toilet!"
+    other: "&a🚽 Du satte {player} på et toilet!"
+    usage: "&c🚽 Brug: {command} [spiller]"
+  diarrhea:
+    self: "&a🚽 Du har diarré!"
+    other: "&a🚽 Du gav {player} diarré!"
+    usage: "&c🚽 Brug: {command} [spiller]"
+  onlyPlayer: "&c🚽 Kun spillere kan bruge denne kommando!"
+  playerNotFound: "&c🚽 Spilleren blev ikke fundet!"
+reload:
+  success: "&a🚽 Plugin-konfigurationen og sprogfilerne er genindlæst!"
+  permissionDenied: "&c🚽 Du har ikke tilladelse til at genindlæse plugin!"

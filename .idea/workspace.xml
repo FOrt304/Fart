@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41bf8190-48dd-42b4-9fb3-e1da32b499f0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2pg41giaUxdvsxmv6H2mhGZ12Kg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.Fart [clean].executor": "Run",
+    "Maven.Fart [compile].executor": "Run",
+    "Maven.Fart [package].executor": "Run",
+    "Maven.Fart [test].executor": "Run",
+    "Maven.Fart [validate].executor": "Run",
+    "Maven.HypixelZombies [package].executor": "Run",
+    "Maven.OgerZombies [package].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nzoxzl01/IdeaProjects/Fart",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nzoxzl01\IdeaProjects\Fart\src\resources\lang" />
+      <recent name="C:\Users\nzoxzl01\IdeaProjects\OgerZombies\src\resources\lang" />
+      <recent name="C:\Users\nzoxzl01\IdeaProjects\OgerZombies\src\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nzoxzl01\IdeaProjects\Fart\src\main\resources" />
+      <recent name="C:\Users\nzoxzl01\IdeaProjects\Fart\src\main\java" />
+      <recent name="C:\Users\nzoxzl01\IdeaProjects\Fart\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41bf8190-48dd-42b4-9fb3-e1da32b499f0" name="Changes" comment="" />
+      <created>1733174174211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733174174211</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+name: Fart
+version: 1.3
+main: github.al0046.fart.Fart
+api-version: 1.20
+author: FOrt404
+description: Average Fart Plugin.
+commands:
+  fart:
+    description: Make yourself or another player fart.
+    usage: /fart [player]
+  poop:
+    description: Make yourself or another player poop.
+    usage: /poop [player]
+  toilet:
+    description: Sit yourself or another player on a toilet.
+    usage: /toilet [player]
+  diarrhea:
+    description: Cause yourself or another player to have diarrhea.
+    usage: /diarrhea [player]
+  fartreload:
+    description: Reload the plugin configuration.
+    usage: /fartreload
+  farthelp:
+    description: Show help for the Fart plugin.
+    usage: /farthelp
+permissions:
+  fart.admin:
+    description: Allows reloading of the plugin's configuration and language files
+    default: op
