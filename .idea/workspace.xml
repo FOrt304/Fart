@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41bf8190-48dd-42b4-9fb3-e1da32b499f0" name="Changes" comment="" />
+    <list default="true" id="41bf8190-48dd-42b4-9fb3-e1da32b499f0" name="Changes" comment="Fart 1.3">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/github/al0046/fart/Fart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lang/da.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lang/en.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lang/il.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/lang/sv.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Fart-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Fart-1.3-shaded.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/Fart-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/github/al0046/fart/Fart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lang/da.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lang/en.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lang/il.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/lang/sv.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/original-Fart-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/original-Fart-1.3.jar" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +50,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/FOrt304/Fart.git",
+    "accountId": "c62b5b7c-87ff-43f5-9ee4-888c2b81a722"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2pg41giaUxdvsxmv6H2mhGZ12Kg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +78,7 @@
     "Maven.HypixelZombies [package].executor": "Run",
     "Maven.OgerZombies [package].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/nzoxzl01/IdeaProjects/Fart",
@@ -76,6 +120,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733174174211</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fart 1.3">
+      <option name="closed" value="true" />
+      <created>1733310758761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733310758761</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fart 1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fart 1.3" />
   </component>
 </project>
